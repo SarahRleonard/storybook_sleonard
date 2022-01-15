@@ -1,6 +1,6 @@
 {
     "name": "tp1_storybook_sleonard",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Storybook pour le TP1",
     "private": false,
     "dependencies": {
