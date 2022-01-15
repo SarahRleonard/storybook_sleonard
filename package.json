@@ -1,5 +1,5 @@
 {
-    "name": "storybook_sleonard",
+    "name": "storybook_sleonard_tp1",
     "version": "1.0.0",
     "description": "Storybook pour le TP1",
     "private": false,
@@ -108,7 +108,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/user/components_packages.git"
+        "url": "https://github.com/SarahRleonard/storybook_sleonard.git"
     },
     "keywords": [
         "React",
@@ -119,7 +119,7 @@
     "author": "Sarah Rolleo",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/user/components_packages/issues"
+        "url": "https://github.com/SarahRleonard/storybook_sleonard/issues"
     },
-    "homepage": "https://github.com/user/components_packages#readme"
+    "homepage": "https://github.com/SarahRleonard/storybook_sleonard#readme"
 }
